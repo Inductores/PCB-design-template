@@ -1,0 +1,1 @@
+Copy "[Template]" folder and rename to the project name
